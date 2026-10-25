@@ -27,7 +27,7 @@ You need [Claude Code](https://claude.com/claude-code), Python 3.10+, and a
 on your computer for free).
 
 ```bash
-git clone https://github.com/apoorvumang/figurine-colorize ~/.claude/skills/figurine-colorize
+git clone https://github.com/everything3d/figurine-colorize ~/.claude/skills/figurine-colorize
 python3 -m venv ~/.venvs/figurine
 ~/.venvs/figurine/bin/pip install -r ~/.claude/skills/figurine-colorize/requirements.txt
 export TRIPO_API_KEY=tsk_your_key_here
