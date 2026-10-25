@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.glb
+*.3mf
+*.obj
+*.mtl
+*.npz
+*.npy
+*_tasks.json
